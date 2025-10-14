@@ -1,371 +1,284 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24&text=MINDFLARE&fontSize=90&fontColor=fff&animation=twinkling&desc=Where%20Code%20Meets%20Chaos&descSize=25&descAlignY=65&descAlign=50" />
-
-<br/>
-
-<!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=We+don't+just+write+code.+We+break+systems.;We+don't+just+follow+paths.+We+create+them.;We+don't+wait+for+bugs.+We+hunt+them.;Time+is+limited.+Code+is+eternal.)](https://git.io/typing-svg)
-
-<br/><br/>
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   When systems say "unbreakable,"                            ║
+║   We whisper "challenge accepted."                           ║
+║                                                               ║
+║   When everyone follows the same path,                       ║
+║   We carve new routes through the digital wilderness.        ║
+║                                                               ║
+║   Time is our enemy.                                         ║
+║   Code is our weapon.                                        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🔥 THE MANIFESTO
+### 🌌 **CALLSIGN: MindflareX** 🌌
 
-<br/>
-
-<table>
-<tr>
-<td>
-
-<br/>
-
-**When everyone follows the same path,**  
-*We forge new ones.*
-
-**When systems say "unbreakable",**  
-*We prove them wrong.*
-
-**Time is our enemy, but code is our weapon.**  
-*We are the ones who persist when others quit.*
-
-<br/>
-
-</td>
-</tr>
-</table>
+*Where logic meets chaos, and vulnerability becomes art.*
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
+## ⚡ The Manifesto
 
-<div align="center">
+```
+We don't just find vulnerabilities.
+We understand them.
+We don't just write exploits.
+We architect solutions.
 
-## 🎯 CURRENT OPERATIONS
+In the space between 0 and 1,
+Where binary becomes poetry,
+We craft our legacy.
 
-<br/>
+Every system has a story.
+Every bug, a lesson.
+Every breach, a revelation.
 
-</div>
+We are the ones who look deeper.
+Who question harder.
+Who never settle for "good enough."
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🔐 Identity
-
-**Callsign:** `MindflareX`  
-**Role:** Security Researcher | Tool Crafter  
-**Status:** 🔴 **ACTIVE**  
-**Timezone:** IST (GMT+5:30)
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ Stats
-
-**Coffee Consumed:** ∞  
-**Systems Compromised:** Legal ones only  
-**Hours Coding:** Too many to count  
-**Sleep Schedule:** What's that?
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🎖️ Primary Operations
-
-<br/>
-
-🔐 **Cryptography & Steganography**  
-🕵️ **Penetration Testing & CTF Challenges**  
-🛠️ **Security Tool Development**  
-📝 **Vulnerability Research & Writeups**
-
-<br/>
-
-> *"Building tools that others only dream about"*
-
-</div>
-
-<br/>
+Coffee flows infinite.
+Sleep remains optional.
+The hunt never ends.
+```
 
 ---
 
-<br/>
+## 🎯 Arsenal
 
 <div align="center">
 
-## 🛡️ ARSENAL
-
-<br/>
-
-### Languages & Tools
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+| **Domain** | **Status** | **Mission** |
+|:---:|:---:|:---|
+| 🔐 **Cryptography** | `🟢 ACTIVE` | *Embedding secrets within pixels* |
+| 🕵️ **Penetration Testing** | `🟢 OPERATIONAL` | *Understanding attack vectors* |
+| 🛠️ **Tool Development** | `🟢 COMPILING` | *Building what others dream about* |
+| 📝 **Research** | `🟡 ONGOING` | *Documenting the digital battleground* |
+| 🎪 **CTF Challenges** | `🟢 HUNTING` | *When forward doesn't work, reverse* |
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
+## 🔬 Current Experiments
 
-<div align="center">
-
-## 📡 ACTIVE MISSIONS
-
-*The projects that define the chaos*
-
-<br/>
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<br/>
-
-<div align="center">
-
-### 🔐 ImageCrypter
-
-[![ImageCrypter](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=ImageCrypter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)](https://github.com/MindflareX/ImageCrypter)
-
-**STATUS:** 🟢 Operational  
-**TYPE:** Encryption Tool
-
-*Embedding secrets within pixels.*  
-*Making the invisible, visible.*
-
-`Java` • `Cryptography` • `Steganography`
-
-</div>
-
-<br/>
-
-</td>
-<td width="50%">
-
-<br/>
-
-<div align="center">
-
-### 🎯 Advanced-Key-Logger
-
-[![Advanced-Key-Logger](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=Advanced-Key-Logger&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)](https://github.com/MindflareX/Advanced-Key-Logger)
-
-**STATUS:** 🟡 Research  
-**TYPE:** Security Research
-
-*Understanding attack vectors.*  
-*Building better defenses.*
-
-`Python` • `System Hooks` • `Security`
-
-</div>
-
-<br/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<br/>
-
-<div align="center">
-
-### 📝 HTB-Boxes-Writeups
-
-[![HTB-Boxes-Writeups](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=HTB-Boxes-Writeups&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)](https://github.com/MindflareX/HTB-Boxes-Writeups)
-
-**STATUS:** 🟢 Ongoing  
-**TYPE:** Knowledge Base
-
-*Documenting the battles.*  
-*Sharing the knowledge.*
-
-`Pentesting` • `Documentation` • `CTF`
-
-</div>
-
-<br/>
-
-</td>
-<td width="50%">
-
-<br/>
-
-<div align="center">
-
-### 🔴 Rev-Shell
-
-[![Rev-Shell](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=Rev-Shell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)](https://github.com/MindflareX/Rev-Shell)
-
-**STATUS:** 🟢 Compiled  
-**TYPE:** Reverse Engineering
-
-*When forward doesn't work,*  
-*We go reverse.*
-
-`C++` • `Network` • `Security`
-
-</div>
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+```python
+class MindflareX:
+    def __init__(self):
+        self.coffee_consumed = float('inf')
+        self.hours_coding = "Too many to count"
+        self.vulnerabilities_found = "Classified"
+        self.motto = "Break it. Understand it. Build it better."
+    
+    def philosophy(self):
+        return """
+        In a world of script kiddies,
+        Be the architect.
+        In a sea of copy-paste,
+        Be the innovator.
+        """
+    
+    def current_focus(self):
+        return [
+            "Steganography techniques that make pixels lie",
+            "Cryptographic puzzles that bend minds",
+            "Security tools forged in the fires of curiosity",
+            "CTF challenges that separate signal from noise"
+        ]
+```
 
 ---
 
-<br/>
+## 🌊 The Journey
 
-<div align="center">
+<details>
+<summary><b>🔓 Philosophy of Security</b></summary>
 
-## 📊 BATTLE METRICS
+<br>
 
-*Numbers don't lie, they tell stories*
+*Security isn't just about finding what's broken.*  
+*It's about understanding why it broke.*  
+*And ensuring it never breaks that way again.*
 
-<br/>
+Every vulnerability tells a story.  
+Every exploit reveals a truth.  
+Every patch closes a door but opens a window to deeper understanding.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MindflareX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=00f7f7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MindflareX&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideLabels=00f7f7&dates=c9d1d9" />
+We don't just defend systems.  
+We comprehend them at a molecular level.  
+We think like attackers to build like defenders.
 
-<br/><br/>
+**The greatest security doesn't prevent all attacks.**  
+**It makes attacks reveal themselves.**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindflareX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MindflareX&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=c9d1d9&area=true&area_color=00f7f7" />
+</details>
 
-</div>
+<details>
+<summary><b>⚔️ Tools & Weapons</b></summary>
 
-<br/>
+<br>
 
----
+```
+┌─────────────────────────────────────┐
+│  Primary Armament                   │
+├─────────────────────────────────────┤
+│  > Python           (Automation)    │
+│  > C/C++            (Performance)   │
+│  > Assembly         (Truth)         │
+│  > JavaScript       (Web Recon)     │
+│  > Bash/PowerShell  (Orchestration) │
+└─────────────────────────────────────┘
 
-<br/>
+┌─────────────────────────────────────┐
+│  Specialized Gear                   │
+├─────────────────────────────────────┤
+│  > Burp Suite                       │
+│  > Metasploit Framework             │
+│  > Ghidra / IDA Pro                 │
+│  > Wireshark                        │
+│  > Custom Tools (From the Forge)    │
+└─────────────────────────────────────┘
+```
 
-<div align="center">
+</details>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+<details>
+<summary><b>🎓 Knowledge Domains</b></summary>
 
-<br/>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MindflareX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
+- **Steganography** - *The art of invisible ink in the digital age*
+- **Cryptanalysis** - *When math becomes a weapon*
+- **Reverse Engineering** - *Reading the language machines speak*
+- **Web Application Security** - *Finding cracks in digital fortresses*
+- **Network Forensics** - *Following digital breadcrumbs*
+- **Binary Exploitation** - *Dancing with memory*
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💭 Philosophy
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-<br/>
-
-> *"The best code is written in the dark,*  
-> *When the world sleeps and ideas awaken."*
-
-> *"We don't fear complexity. We embrace it."*
-
-> *"In the realm of code, chaos breeds innovation."*
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+</details>
 
 ---
 
-<br/>
+## 📡 Transmission Channels
 
 <div align="center">
 
-## 📡 ESTABLISH CONNECTION
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunder-singh1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MindflareX&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS" />
+```
+┌───────────────────────────────────────────────┐
+│                                               │
+│  [●] Signal Available                         │
+│                                               │
+│  📧 Secure Comms: [REDACTED]                 │
+│  🌐 Digital Presence: Scattered & Strategic  │
+│  🎯 CTF Platforms: Various Battlegrounds     │
+│                                               │
+│  🔒 PGP: Because privacy matters             │
+│  🌊 Response Time: When the mission demands  │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## 📊 Battle Statistics
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24&section=footer" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MindflareX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MindflareX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
 
-**⚡ "In code we trust, in bugs we debug" ⚡**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MindflareX&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF)
 
-`[TRANSMISSION END]`
+</div>
+
+---
+
+## 💭 Current Mindset
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  "The best defense isn't a higher wall.                │
+│   It's understanding how walls fall."                  │
+│                                                         │
+│  "We don't hack for chaos.                             │
+│   We hack to understand order."                        │
+│                                                         │
+│  "Every vulnerability is a teacher.                    │
+│   Every patch is a lesson learned."                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🎯 Mission Statement
+
+We exist in the margins.  
+In the space between secure and vulnerable.  
+Between known and unknown.  
+Between should work and does work.
+
+**We are the explorers of digital realms.**  
+**The cartographers of code.**  
+**The ones who ask "what if?"**
+
+When systems claim perfection,  
+We prove otherwise.  
+Not to destroy,  
+But to build stronger foundations.
+
+**Our victories are measured not in exploits found,**  
+**But in lessons learned and shared.**
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║  You may not see us in your logs,                     ║
+║  But you'll feel us in your improvements.             ║
+║                                                        ║
+║  We are MindflareX.                                   ║
+║  We are the signal in the noise.                      ║
+║  We are building tomorrow's security,                 ║
+║  One vulnerability at a time.                         ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+**Status:** `🟢 OPERATIONAL` | **Coffee Level:** `∞` | **Mode:** `RESEARCH & DEVELOPMENT`
+
+</div>
+
+---
+
+<div align="center">
+
+*"In the realm of bits and bytes, we are the architects of truth."*
+
+⚡ **MindflareX** ⚡
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MindflareX&color=00F7FF&style=flat-square&label=Reconnaissance+Visits)](https://github.com/MindflareX)
 
 </div>
