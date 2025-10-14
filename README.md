@@ -1,131 +1,253 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mindflare&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,3,4,5&text=MINDFLARE&fontSize=70&fontColor=fff&animation=fadeIn&desc=Where%20Code%20Meets%20Chaos&descSize=20&descAlignY=65" />
 
-### Tech Nerd | Security Enthusiast | Code Breaker
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Encryption+%7C+HTB+Player;Breaking+things+to+understand+them;Building+tools+that+actually+work)](https://git.io/typing-svg)
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MindflareX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   > We don't just write code. We break systems.              ║
+║   > We don't just follow paths. We create them.              ║
+║   > We don't wait for bugs. We hunt them.                    ║
+║                                                               ║
+║   Time is limited. Code is eternal.                          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🎯 Who Am I?
+<div align="center">
 
-```python
-class Mindflare:
-    def __init__(self):
-        self.username = "MindflareX"
-        self.name = "Mindflare"
-        self.role = "Tech Nerd"
-        self.interests = ["Cybersecurity", "Cryptography", "HTB", "Tool Development"]
-        self.current_work = ["Image Encryption", "Security Tools", "CTF Challenges"]
-        self.languages = ["Python", "Java", "C++"]
-        
-    def daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🔐 Break Things", "🛠️ Fix Things", "🔁 Repeat"]
+## ⚡ THE MANIFESTO
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=We+are+engineers.+We+are+hunters.;We+study+vulnerabilities.+We+craft+exploits.;We+don't+accept+coincidence.;We+push+boundaries.+We+break+things+to+understand+them.;You+may+not+see+us%2C+but+you'll+always+feel+our+code.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 CURRENT OPERATIONS
+
+</div>
+
+```javascript
+const mindflare = {
+    identity: {
+        callsign: "MindflareX",
+        role: "Security Researcher | Tool Crafter",
+        status: "🔴 ACTIVE",
+        timezone: "IST (GMT+5:30)"
+    },
     
-    def life_motto(self):
-        return "If it's not broken, break it to learn how it works"
+    operations: {
+        primary: [
+            "🔐 Cryptography & Steganography",
+            "🕵️ Penetration Testing & CTF",
+            "🛠️ Security Tool Development",
+            "📝 Vulnerability Research & Writeups"
+        ],
+        
+        current_mission: "Building tools that others only dream about",
+        
+        stats: {
+            coffee_consumed: "∞",
+            systems_compromised: "Legal ones only",
+            hours_coding: "Too many to count",
+            sleep_schedule: "What's that?"
+        }
+    },
+    
+    manifesto: function() {
+        return `
+            When everyone follows the same path,
+            We forge new ones.
+            
+            When systems say "unbreakable",
+            We prove them wrong.
+            
+            Time is our enemy, but code is our weapon.
+            We are the ones who persist when others quit.
+        `;
+    }
+};
 
-mindflare = Mindflare()
-print(mindflare.life_motto())
+console.log(mindflare.manifesto());
 ```
 
 ---
 
-## 🛠️ Arsenal
+<div align="center">
+
+## 🛡️ ARSENAL
+
+### [ WEAPONS OF CHOICE ]
+
+</div>
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### [ BATTLEFIELD ]
 
-### Security & CTF
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
+![Kali](https://img.shields.io/badge/KALI-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a)
+
+### [ OPERATIONS HQ ]
+
+![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+<div align="center">
+
+## 📡 ACTIVE MISSIONS
+
+*The projects that define the chaos*
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔐 [ImageCrypter](https://github.com/MindflareX/ImageCrypter)
+```
+STATUS: OPERATIONAL
+TYPE: Encryption Tool
+```
+Embedding secrets within pixels.
+Making the invisible, visible.
+
+**Stack:** `Java` `Cryptography` `Steganography`
+
+</td>
+<td width="50%">
+
+### 🎯 [Advanced-Key-Logger](https://github.com/MindflareX/Advanced-Key-Logger)
+```
+STATUS: RESEARCH
+TYPE: Security Research
+```
+Understanding attack vectors.
+Building better defenses.
+
+**Stack:** `Python` `System Hooks` `Security`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 [HTB-Boxes-Writeups](https://github.com/MindflareX/HTB-Boxes-Writeups)
+```
+STATUS: ONGOING
+TYPE: Knowledge Base
+```
+Documenting the battles.
+Sharing the knowledge.
+
+**Stack:** `Pentesting` `Documentation` `CTF`
+
+</td>
+<td width="50%">
+
+### 🔴 [Rev-Shell](https://github.com/MindflareX/Rev-Shell)
+```
+STATUS: COMPILED
+TYPE: Reverse Engineering
+```
+When forward doesn't work,
+We go reverse.
+
+**Stack:** `C++` `Network` `Security`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-[![ImageCrypter](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=ImageCrypter&theme=tokyonight&hide_border=true)](https://github.com/MindflareX/ImageCrypter)
-[![Advanced-Key-Logger](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=Advanced-Key-Logger&theme=tokyonight&hide_border=true)](https://github.com/MindflareX/Advanced-Key-Logger)
-[![HTB-Boxes-Writeups](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=HTB-Boxes-Writeups&theme=tokyonight&hide_border=true)](https://github.com/MindflareX/HTB-Boxes-Writeups)
-[![Rev-Shell](https://github-readme-stats.vercel.app/api/pin/?username=MindflareX&repo=Rev-Shell&theme=tokyonight&hide_border=true)](https://github.com/MindflareX/Rev-Shell)
+## 📊 BATTLE METRICS
+
+*Numbers don't lie, they tell stories*
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MindflareX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MindflareX&theme=dark&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindflareX&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=MindflareX&theme=github-compact&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=c9d1d9&area=true&area_color=00f7f7" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 📊 Battle Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MindflareX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MindflareX&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindflareX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MindflareX&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🎖️ GitHub Trophies
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MindflareX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<img src="https://github-profile-trophy.vercel.app/?username=MindflareX&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Into
+<div align="center">
 
-```yaml
-current_focus:
-  - "🔐 Cybersecurity & Penetration Testing"
-  - "🛡️ Building security tools and utilities"
-  - "🏴 CTF challenges on HackTheBox"
-  - "🔬 Reverse engineering and cryptography"
-
-learning:
-  - "Advanced exploitation techniques"
-  - "Malware analysis and development"
-  - "Network security protocols"
-
-hobbies:
-  - "Breaking into (legal) systems"
-  - "Writing HTB writeups"
-  - "Automating everything"
-  - "Late night coding sessions ☕"
+```ascii
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "The best code is written in the dark,                     │
+│   When the world sleeps and ideas awaken."                  │
+│                                                              │
+│  "We don't fear complexity. We embrace it."                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-## 📫 Connect With Me
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunder-singh1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-profile)
+## 📡 ESTABLISH CONNECTION
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/sunder-singh1)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your.email@example.com)
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)](https://app.hackthebox.com/profile/your-profile)
+
+<img src="https://komarev.com/ghpvc/?username=MindflareX&color=00f7f7&style=for-the-badge&label=SURVEILLANCE+DETECTED" />
 
 </div>
 
@@ -133,22 +255,11 @@ hobbies:
 
 <div align="center">
 
-### 💀 Hacker Quote
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=150&section=footer&animation=fadeIn" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**⚡ "In the realm of code, chaos breeds innovation"**
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MindflareX/MindflareX/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-**⚡ "In code we trust, in bugs we debug"**
+`[TRANSMISSION END]`
 
 </div>
