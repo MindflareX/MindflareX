@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mindflare&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-### Red Teamer | Reverse Engineer | Systems Architect
+### Red Teamer | Reverse Engineer | Exploit Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Exploitation+%7C+Reverse+Engineering+%7C+Binary+Analysis;Pentesting+networks+and+breaking+assumptions;Automating+chaos+for+a+living)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Malware+Analysis;Breaking+systems+to+understand+them;Weaponizing+vulnerabilities)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MindflareX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -82,18 +82,16 @@
 
 ## 📚 Currently Learning
 
-```yaml
-deep_dive:
-  - "Kernel exploitation and driver development"
-  - "Window Internals & PE file architecture"
-  - "Advanced reverse engineering techniques"
-  - "Exploit chain development & sandboxes evasion"
+**Deep Dive:**
+- Kernel exploitation and driver development
+- Window Internals & PE file architecture
+- Advanced reverse engineering techniques
+- Exploit chain development & sandboxes evasion
 
-research:
-  - "0-day analysis patterns"
-  - "Advanced payload obfuscation"
-  - "API hooking & SSDT manipulation"
-```
+**Research Focus:**
+- 0-day analysis patterns
+- Advanced payload obfuscation
+- API hooking & SSDT manipulation
 
 ---
 
