@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mindflare&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-### Tech Nerd | Security Enthusiast | Code Breaker
+### Red Teamer | Reverse Engineer | Systems Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Encryption+%7C+HTB+Player;Breaking+things+to+understand+them;Building+tools+that+actually+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Exploitation+%7C+Reverse+Engineering+%7C+Binary+Analysis;Pentesting+networks+and+breaking+assumptions;Automating+chaos+for+a+living)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MindflareX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -18,20 +18,19 @@
 class Mindflare:
     def __init__(self):
         self.username = "MindflareX"
-        self.name = "Mindflare"
-        self.role = "Tech Nerd"
-        self.interests = ["Cybersecurity", "Cryptography", "HTB", "Tool Development"]
-        self.current_work = ["Image Encryption", "Security Tools", "CTF Challenges"]
-        self.languages = ["Python", "Java", "C++"]
+        self.title = "Red Teamer & Reverse Engineer"
+        self.focus = ["Offensive Security", "Exploit Development", "Malware Analysis"]
+        self.specialization = ["Binary Reversing", "System Internals", "Attack Automation"]
+        self.languages = ["Python", "C", "C++", "Assembly"]
+        self.tools = [".NET", "Ghidra", "x64dbg", "IDA Pro"]
         
-    def daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🔐 Break Things", "🛠️ Fix Things", "🔁 Repeat"]
+    def methodology(self):
+        return ["Analyze", "Break", "Understand", "Automate", "Repeat"]
     
-    def life_motto(self):
-        return "If it's not broken, break it to learn how it works"
+    def philosophy(self):
+        return "Every system has vulnerabilities. My job is finding them before the bad guys do."
 
 mindflare = Mindflare()
-print(mindflare.life_motto())
 ```
 
 ---
@@ -42,18 +41,21 @@ print(mindflare.life_motto())
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000080?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### Security & CTF
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+### Security & Reversal
+![Ghidra](https://img.shields.io/badge/Ghidra-FF6B6B?style=for-the-badge&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-0066CC?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF0000?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+### Development & Systems
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -72,7 +74,7 @@ print(mindflare.life_motto())
 
 ---
 
-## 📊 Battle Stats
+## 📊 Activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MindflareX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -86,40 +88,38 @@ print(mindflare.life_motto())
 
 ---
 
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MindflareX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 🎯 What I'm Into
+## 📚 Currently Learning
 
 ```yaml
-current_focus:
-  - "🔐 Cybersecurity & Penetration Testing"
-  - "🛡️ Building security tools and utilities"
-  - "🏴 CTF challenges on HackTheBox"
-  - "🔬 Reverse engineering and cryptography"
+deep_dive:
+  - "Kernel exploitation and driver development"
+  - "Window Internals & PE file architecture"
+  - "Advanced reverse engineering techniques"
+  - "Exploit chain development & sandboxes evasion"
 
-learning:
-  - "Advanced exploitation techniques"
-  - "Malware analysis and development"
-  - "Network security protocols"
-
-hobbies:
-  - "Breaking into (legal) systems"
-  - "Writing HTB writeups"
-  - "Automating everything"
-  - "Late night coding sessions ☕"
+research:
+  - "0-day analysis patterns"
+  - "Advanced payload obfuscation"
+  - "API hooking & SSDT manipulation"
 ```
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What Keeps Me Busy
+
+When I'm not analyzing binaries or writing exploits, I'm exploring:
+
+- **Offensive Operations**: Chaining vulnerabilities to build full attack paths
+- **Deep Reversing**: Making sense of stripped binaries and obfuscated code
+- **Tool Development**: Automation that saves time on repetitive exploitation tasks
+- **System Internals**: Understanding how operating systems really work at the lowest level
+- **Exploit Development**: From proof-of-concept to weaponized payload
+
+The intersection of security research and low-level systems is where the real action is.
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
@@ -133,11 +133,7 @@ hobbies:
 
 <div align="center">
 
-### 💀 Hacker Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/MindflareX/MindflareX/output/github-contribution-grid-snake-dark.svg)
 
@@ -149,6 +145,6 @@ hobbies:
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-**⚡ "In code we trust, in bugs we debug"**
+**⚡ "Security through understanding, not through obscurity"**
 
 </div>
