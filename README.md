@@ -14,24 +14,16 @@
 
 ## 🎯 Who Am I?
 
-```python
-class Mindflare:
-    def __init__(self):
-        self.username = "MindflareX"
-        self.title = "Red Teamer & Reverse Engineer"
-        self.focus = ["Offensive Security", "Exploit Development", "Malware Analysis"]
-        self.specialization = ["Binary Reversing", "System Internals", "Attack Automation"]
-        self.languages = ["Python", "C", "C++", "Assembly"]
-        self.tools = [".NET", "Ghidra", "x64dbg", "IDA Pro"]
-        
-    def methodology(self):
-        return ["Analyze", "Break", "Understand", "Automate", "Repeat"]
-    
-    def philosophy(self):
-        return "Every system has vulnerabilities. My job is finding them before the bad guys do."
+**Username:** MindflareX  
+**Title:** Red Teamer & Reverse Engineer  
+**Focus:** Offensive Security | Exploit Development | Malware Analysis  
+**Specialization:** Binary Reversing | System Internals | Attack Automation  
+**Languages:** Python | C | C++ | Assembly  
+**Tools:** .NET | Ghidra | x64dbg | IDA Pro  
 
-mindflare = Mindflare()
-```
+**Methodology:** Analyze → Break → Understand → Automate → Repeat
+
+> "Every system has vulnerabilities. My job is finding them before the bad guys do."
 
 ---
 
@@ -126,16 +118,6 @@ The intersection of security research and low-level systems is where the real ac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunder-singh1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-profile)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/MindflareX/MindflareX/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
